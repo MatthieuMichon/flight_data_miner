@@ -1,4 +1,8 @@
-# flight_data_miner
+# Flight Data Miner
+
+## Requirements
+* Tested using Python 3.4
+* Requires MatPlotLib
 
 ## Input Data
 Takes JSON formated tabular data, with the following fields:
